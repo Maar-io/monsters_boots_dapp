@@ -175,7 +175,7 @@ function App() {
   };
 
   const getConfig = async () => {
-    const configResponse = await fetch("/config/config.json", {
+    const configResponse = await fetch("/shwidelcome-nft/config/config.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
@@ -373,7 +373,7 @@ function App() {
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
-              src={"/config/images/example.gif"}
+              src={"/shwidelcome-nft/config/images/example.gif"}
               style={{ transform: "scaleX(-1)" }}
             />
           </s.Container>
