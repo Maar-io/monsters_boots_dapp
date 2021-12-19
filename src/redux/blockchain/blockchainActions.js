@@ -34,14 +34,14 @@ const updateAccountRequest = (payload) => {
 export const connect = () => {
   return async (dispatch) => {
     dispatch(connectRequest());
-    const abiResponse = await fetch("/config/abi.json", {
+    const abiResponse = await fetch("/shwidelcome-nft/config/abi.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
       },
     });
     const abi = await abiResponse.json();
-    const configResponse = await fetch("/config/config.json", {
+    const configResponse = await fetch("/shwidelcome-nft/config/config.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
