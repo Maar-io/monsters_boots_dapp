@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shwidelcome-nft/static/css/main.faceaf08.chunk.css",
+    "main.js": "/shwidelcome-nft/static/js/main.46840ff3.chunk.js",
+    "main.js.map": "/shwidelcome-nft/static/js/main.46840ff3.chunk.js.map",
+    "runtime-main.js": "/shwidelcome-nft/static/js/runtime-main.bba72fdd.js",
+    "runtime-main.js.map": "/shwidelcome-nft/static/js/runtime-main.bba72fdd.js.map",
+    "static/js/2.9bdcfb99.chunk.js": "/shwidelcome-nft/static/js/2.9bdcfb99.chunk.js",
+    "static/js/2.9bdcfb99.chunk.js.map": "/shwidelcome-nft/static/js/2.9bdcfb99.chunk.js.map",
+    "static/js/3.12534b25.chunk.js": "/shwidelcome-nft/static/js/3.12534b25.chunk.js",
+    "static/js/3.12534b25.chunk.js.map": "/shwidelcome-nft/static/js/3.12534b25.chunk.js.map",
+    "index.html": "/shwidelcome-nft/index.html",
+    "static/css/main.faceaf08.chunk.css.map": "/shwidelcome-nft/static/css/main.faceaf08.chunk.css.map",
+    "static/js/2.9bdcfb99.chunk.js.LICENSE.txt": "/shwidelcome-nft/static/js/2.9bdcfb99.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/shwidelcome-nft/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bba72fdd.js",
+    "static/js/2.9bdcfb99.chunk.js",
+    "static/css/main.faceaf08.chunk.css",
+    "static/js/main.46840ff3.chunk.js"
+  ]
+}
